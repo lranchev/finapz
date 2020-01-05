@@ -1,8 +1,10 @@
-# finapz https://finapz.herokuapp.com/
+# finapz https://finapz.herokuapp.com/ 
+Powering `finapz` to display financial data in undertanble format
+
+
 
 Language and other libraries used: Python, Flask, Bootstrap 4
-
-Powering `finapz` to display financial data in undertanble format
+Hosted: https://dashboard.heroku.com/account
 
 
 
