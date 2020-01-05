@@ -1,11 +1,9 @@
-# finapz
-playing around with python to power finapp
+# finapz https://finapz.herokuapp.com/
 
+Language and other libraries used: Python, Flask, Bootstrap 4
 
-we can use these APIs:
+Powering `finapz` to display financial data in undertanble format
 
-https://www.tradingview.com/rest-api-spec/ 
-https://www.alphavantage.co/
 
 
 
@@ -19,4 +17,21 @@ https://www.alphavantage.co/
 - (Maya?)
 
 ## Overview
-  Start date:
+  Start date: 12/25/2019
+  End date:   02/25/2020
+ 
+
+## Phases:
+1) Backend - to fetch data from public API such as:
+
+      """
+      we can use these APIs:
+
+      https://www.tradingview.com/rest-api-spec/ 
+      https://www.alphavantage.co/
+      """
+2) Frontend: dispalaying data in tabular or graphical way
+
+3) Midgress segment:
+
+
