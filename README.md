@@ -6,3 +6,17 @@ we can use these APIs:
 
 https://www.tradingview.com/rest-api-spec/ 
 https://www.alphavantage.co/
+
+
+
+# Project breakdown
+
+## Participants:
+- Lacho
+- Plamen
+- Vlado
+- Rado 
+- (Maya?)
+
+## Overview
+  Start date:
