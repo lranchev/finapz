@@ -1,5 +1,5 @@
 # finapz https://finapz.herokuapp.com/ 
-Powering `finapz` to display financial data in undertanble format
+Powering `finapz` to display financial data in undestandable and visual format
 
 
 
