@@ -1,1 +1,1 @@
-web: gunicorn deploy:finapz
+web: gunicorn finapz:app
