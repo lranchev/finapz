@@ -1,1 +1,1 @@
-web: guinicorn deployed: finapz
+deployed: finapz
