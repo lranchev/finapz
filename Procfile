@@ -1,1 +1,1 @@
-ps:scale web=1 deployed: finapz
+web:gunicorn deployed:finapz
