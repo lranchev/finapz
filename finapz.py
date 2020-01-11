@@ -11,3 +11,6 @@ def index():
 @app.route('/vlado')
 def vlado_tmp():
     return "<h1>Vlado's space</h1>"
+
+
+# adfdadf
