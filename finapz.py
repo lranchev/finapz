@@ -15,5 +15,5 @@ def vlado_tmp():
 
 # Plamen's route, yeah babe!!!
 @app.route('/paxi')
-def vlado_tmp():
+def paxi_tmp():
     return "<h1>Paxi's space</h1>"
