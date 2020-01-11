@@ -1,4 +1,6 @@
 from flask import Flask
+from alpha_vantage.timeseries import TimeSeries
+
 
 app = Flask(__name__)
 
@@ -22,4 +24,4 @@ def paxi_tmp():
 # Plamen's route, yeah babe!!!
 @app.route('/lacho')
 def lacho():
-    return "<h1>Lacho's space</h1>"
+    return "Lacho's space. \n\n Trying to display some data for AKAM stock here:\n\n" + str(data)
