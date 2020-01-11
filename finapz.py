@@ -9,5 +9,5 @@ def index():
 
 
 @app.route('/vlado')
-def index():
+def vlado_tmp():
     return "<h1>Vlado's space</h1>"
