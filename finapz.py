@@ -17,3 +17,9 @@ def vlado_tmp():
 @app.route('/paxi')
 def paxi_tmp():
     return "<h1>Paxi's space</h1>"
+
+
+# Plamen's route, yeah babe!!!
+@app.route('/lacho')
+def lacho():
+    return "<h1>Lacho's space</h1>"
