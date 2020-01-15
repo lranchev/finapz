@@ -28,7 +28,9 @@ def paxi_tmp():
 def lacho():
 	ts = TimeSeries(key='FH0XYNHWNTKNS1PG')
 	data, meta_data = ts.get_daily('AKAM')
-	return "Lacho's space. \n\n Trying to display some data for AKAM stock here:\n\n" + str(data)
+#	return "Lacho's space. \n\n Trying to display some data for AKAM stock here:\n\n" + str(data)
+	return flask.render_template("index.html",token=datastr)
+
 
 #
 # from templates.hello.views import hello_blueprint
